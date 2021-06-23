@@ -5,5 +5,5 @@
 </a>By Yıldız Dikme Youtube channel</p>
 
 <h6>One Page<h6> 
-  <h2> <a href="https://walletapp1.netlify.app/" rel="nofollow">Demo website</a> </h2>
+  <h2> <a href="https://landing12.netlify.app/" rel="nofollow">Demo website</a> </h2>
  
